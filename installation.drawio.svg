@@ -1,0 +1,69 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="516px" height="81px" viewBox="-0.5 -0.5 516 81" content="&lt;mxfile host=&quot;b2000eae-6cf4-4000-916f-e065fde188ca&quot; modified=&quot;2021-01-19T21:02:57.478Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.52.1 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36&quot; etag=&quot;7qPH1BkEa5UsRvsGcJSc&quot; version=&quot;13.10.0&quot; type=&quot;embed&quot;&gt;&lt;diagram id=&quot;OSZMn-1i7uhJ5lQgrI9r&quot; name=&quot;Page-1&quot;&gt;5VZNj5swEP01ufQQEQjs9pqP3VbqnnJoe/TGE3BjPMiYAP31tc0QQKSrSq12pS0H5Hkztmfe+BkW0TZvHjUrsifkIBdhwJtFtFuE4Tq8s28HtB3wcUVAqgXvoNUAHMRPIDAgtBIcykmgQZRGFFPwiErB0UwwpjXW07ATyumuBUthBhyOTM7Rr4KbrEPv42DAP4FIs37nVUCenPXBBJQZ41iPoGi/iLYa0XSjvNmCdNz1vHTzHn7jvSamQZk/mRBTGqbtawNuSyUTtckwRcXkfkA3GivFwS0QWGuI+YJYWHBlwR9gTEt9Y5VBC2Uml+S1uen2G833xndnLOPe3DVj564lqzQaz7BFidrnGj34x3rmZRMTJVb6SJWFdFKYToGiog5yNY+mEVWPgDnY/W2ABsmMuEzbz+gUpde4gWg7IK5v8065XJisaNHPqjRMum1QWQ+e7GvfGFClBxKWW3I36rksfL2JtCVsnrUdpebKwKiP0y7VmTBwKJjnorainHbkJKQc8ZoEzEnyBuPh7i4J3IInVGaEn/zzUicuoA00L7JM3oS0QZfD1a4Hqa16/WQjmfVxf9OX5D/SQzTXw/qt9BDN9LDVwAy4Zd0NLaQbCqcMk7lhjfosVEq3N2h/PuzxsMkPogk+LLlmtcBl4UNRd5jAkeED3pF8ZvqJb+gnuqGf+3+gn/WNe+0oKw7XxnHBUs1yO6rKroEd/sT02X4KXdfKVhnW+I+6S4dzt0FuP6rlO2rTOo5f7Zqz5vBL4X2j/7Jo/ws=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 120 40 L 193.63 40" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 198.88 40 L 191.88 43.5 L 193.63 40 L 191.88 36.5 Z" fill="#ffffff" stroke="#ffffff" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="0" y="10" width="120" height="60" fill="#60a917" stroke="#2d7600" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 40px; margin-left: 1px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #ffffff; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                Installation of Extension
+                                <br/>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="60" y="44" fill="#ffffff" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Installation of Exte...
+                </text>
+            </switch>
+        </g>
+        <path d="M 330 40 L 388.63 40" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 393.88 40 L 386.88 43.5 L 388.63 40 L 386.88 36.5 Z" fill="#ffffff" stroke="#ffffff" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="200" y="0" width="130" height="80" fill="#60a917" stroke="#2d7600" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 128px; height: 1px; padding-top: 40px; margin-left: 201px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #ffffff; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                Create a file in the working folder with extension *.drawio.png or *.dio or *.drawio
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="265" y="44" fill="#ffffff" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Create a file in the...
+                </text>
+            </switch>
+        </g>
+        <rect x="395" y="10" width="120" height="60" fill="#60a917" stroke="#2d7600" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 40px; margin-left: 396px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #ffffff; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                Include the diagram using the Markdown syntax to add images
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="455" y="44" fill="#ffffff" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Include the diagram...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://desk.draw.io/support/solutions/articles/16000042487" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
